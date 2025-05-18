@@ -117,10 +117,13 @@ python plot_payoff_diagram_extended.py --spot 173 --strike1 160 --strike2 180
 # → PNG chart saved with breakeven and extrema points
 ```
 ---
+
 ## 👨‍💻 Author
-- Poulami Nandi
-  Data Scientist | Quant Researcher | Options Enthusiast
-  [LinkedIn] (https://www.linkedin.com/in/poulami-nandi-a8a12917b/)
+
+Poulami Nandi
+Data Scientist | Quant Researcher | Options Enthusiast
+[LinkedIn] (https://www.linkedin.com/in/poulami-nandi-a8a12917b/)
+
 ---
 ## 📜 License
 This project is licensed under the MIT License – free to use, modify, and contribute.
