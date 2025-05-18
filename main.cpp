@@ -111,7 +111,7 @@ std::vector<PayoffPoint> compute_payoff_diagram(double strike, double premium, i
 // ===== Main Program =====
 int main() {
     std::string ticker, api_key;
-    std::cout << "Enter API Key for Alpha Vantage: ";
+    std::cout << "Enter API Key for Alpha Vantage like Z4962NYRXZQI52WO: ";
     std::getline(std::cin, api_key);
 
     std::cout << "Enter Stock Symbol (e.g., AAPL): ";
